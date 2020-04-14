@@ -1,0 +1,38 @@
+<resources>
+    <string name="industrial">El aire to proh</string>
+
+    <string name="app_name">Aire Acondicionado</string>
+    <string name="connecting">Conectando</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+
+    <string name="not_compatible">No compatible</string>
+    <string name="your_phone_does_not_support_bluetooth">Su telefono no soporta bluetooth</string>
+    <string name="exit">Salir</string>
+
+    <string name="required_action">Accion requerida</string>
+    <string name="app_wont_work_bt_disabled">Esta aplicacion no va a funcionar a menos que active el bluetooth</string>
+
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_title">Desea eliminar el aire acondicionado seleccionado</string>
+    <string name="delete_text">Esta accion va a eliminar completamente este aire acondicionado de la aplicacion. Desea continuar</string>
+
+    <string name="current_temp_text">La temperatura actual es de:</string>
+    <string name="unknown">Desconocido</string>
+    <string name="selected_temp_text">La temperatura seleccionada es de:</string>
+    <string name="accept">Aceptar</string>
+    <string name="on">Encender</string>
+
+    <string name="computer">Computadora</string>
+    <string name="audio_video">Audio-Video</string>
+    <string name="health">Salud</string>
+    <string name="imaging">Imagen</string>
+    <string name="misc">Misc</string>
+    <string name="networking">Red</string>
+    <string name="peripheral">Periferico</string>
+    <string name="phone">Telefono</string>
+    <string name="toy">Juguete</string>
+    <string name="uncategorized">No categorizado</string>
+    <string name="wearable">Reloj inteligente</string>
+</resources>

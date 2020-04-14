@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "755474749708",
+    "firebase_url": "https://aire-acondicionado-d728f.firebaseio.com",
+    "project_id": "aire-acondicionado-d728f",
+    "storage_bucket": "aire-acondicionado-d728f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755474749708:android:4cdc6b95e9f2654b",
+        "android_client_info": {
+          "package_name": "com.matias.airconditioner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755474749708-psoarimpbc0psodg3t9c298j5bmomqvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi41t9PeoNaIdbLkckgQkQcXTCqMDlWZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
